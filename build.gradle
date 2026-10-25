@@ -123,7 +123,7 @@ configurations {
 }
 
 dependencies {
-    // implementation 'com.github.glitchfiend:TerraBlender-neoforge:26.3-26.3.0.0.7'
+    // implementation 'com.github.glitchfiend:TerraBlender-neoforge:${minecraft_version}-${minecraft_version}.0.0.7'
 
     // compileOnly("mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}")
     // runtimeOnly("mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}")
