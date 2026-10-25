@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/outer_stairs",
-  "textures": {
-    "bottom": "mccourse:block/zircon_block",
-    "side": "mccourse:block/zircon_block",
-    "top": "mccourse:block/zircon_block"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "mccourse:block/atomic_separator_front",
-    "side": "mccourse:block/atomic_separator_side",
-    "top": "mccourse:block/atomic_separator_top"
-  }
-}
